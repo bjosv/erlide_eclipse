@@ -58,7 +58,7 @@
     <repository>
       <id>kernel</id>
       <layout>p2</layout>
-      <url>https://download.erlide.org/update/kernel/0.115.3</url>
+      <url>https://bjosv.github.io/update/kernel/0.115.4</url>
     </repository>
   </repositories>
 
